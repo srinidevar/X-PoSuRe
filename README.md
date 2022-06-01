@@ -9,4 +9,6 @@ This study proposes X-PoSuRe - a neural network based regression model for pollu
 4. [Building permits information](https://data.sfgov.org/widgets/i98e-djp9,https://data.lacity.org/A-Prosperous-City/Building-Permits/nbyu-2ha9) last accessed June 1, 2022
 5. [Weather data](http://weatherapi.com/) last accessed June 1, 2022
 6. [ZIP code information from census data](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-2010-nation-u-s-2010-census-5-digit-zip-code-tabulation-area-zcta5-na) last accessed June 1, 2022
-7. 
+7. [California building footprints](https://github.com/microsoft/USBuildingFootprints) last accessed June 1, 2022
+8. [Open Street Map (OSM) data export for California](https://download.geofabrik.de/north-america/us/california.html) last accessed June 1, 2022
+9. [California forest fire incidents](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-all/about) last accessed June 1, 2022
